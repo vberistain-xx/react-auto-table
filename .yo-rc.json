@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "autotable",
+    "style": "scss",
+    "postcss": false
+  }
+}
